@@ -7,6 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## "Printing" components from Pravatar (https://www.pravatar.cc/)
+## "Printing" random components from Pravatar (https://www.pravatar.cc/)
 
 ![image](https://user-images.githubusercontent.com/66438920/198843537-19c81204-b4ac-45b8-85b5-1f8f468dad9d.png)
