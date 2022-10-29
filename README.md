@@ -10,3 +10,6 @@
 ## "Printing" random images with Laravel Components from Pravatar (https://www.pravatar.cc/)
 
 ![image](https://user-images.githubusercontent.com/66438920/198843537-19c81204-b4ac-45b8-85b5-1f8f468dad9d.png)
+
+![image](https://user-images.githubusercontent.com/66438920/198855813-5a279ca1-f496-49e6-84a8-20f82a57e95d.png)
+
